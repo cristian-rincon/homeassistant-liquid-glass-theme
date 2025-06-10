@@ -39,3 +39,5 @@ action:
 ## Remarks
 
 Based on [homeassistant-visionos-theme](https://github.com/Nezz/homeassistant-visionos-theme)
+Photo by <a href="https://unsplash.com/@3dottawa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Point3D Commercial Imaging Ltd.</a> on <a href="https://unsplash.com/photos/white-wooden-framed-glass-door-nQlVMCHPysY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
