@@ -2,20 +2,20 @@
 
 Theme inspired by visionOS for Home Assistant with automatic dark mode support.
 
-![Demo day](https://github.com/Nezz/homeassistant-visionos-theme/assets/431167/1b1d9e34-ac45-4a8e-a801-789441cdf06c)
-![Demo night](https://github.com/Nezz/homeassistant-visionos-theme/assets/431167/b503b0f0-3371-4a55-99bc-cf6152ad1510)
+![Demo day](https://github.com/cristian-rincon/homeassistant-liquid-glass-theme/assets/431167/1b1d9e34-ac45-4a8e-a801-789441cdf06c)
+![Demo night](https://github.com/cristian-rincon/homeassistant-liquid-glass-theme/assets/431167/b503b0f0-3371-4a55-99bc-cf6152ad1510)
 
 
 ## Installation
 
 1. You can install the theme with [HACS](https://hacs.xyz/docs/setup/download):
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Nezz&repository=homeassistant-visionos-theme&category=theme)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=cristian-rincon&repository=homeassistant-liquid-glass-theme&category=theme)
 
 > [!NOTE]  
 > The background blur effects require Home Assistant 2024.5
 
-2. You should see the "visionos" theme appear in your list of themes.
+2. You should see the "liquid-glass" theme appear in your list of themes.
 
 If it's missing, try reloading your themes or adding the following code to your `configuration.yaml` file (reboot required):
 
@@ -33,9 +33,9 @@ trigger:
 action:
   - service: frontend.set_theme
     data:
-      name: visionos
+      name: liquid-glass
 ```
 
 ## Remarks
 
-Based on [Bas Nijholt's iOS Themes](https://github.com/basnijholt/lovelace-ios-themes)
+Based on [homeassistant-visionos-theme](https://github.com/Nezz/homeassistant-visionos-theme)

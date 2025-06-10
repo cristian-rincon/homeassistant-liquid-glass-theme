@@ -1,7 +1,7 @@
 {
-    "name": "visionOS Theme",
-    "homeassistant": "2024.5.0b0",
-    "filename": "visionos.yaml",
+    "name": "Liquid Glass Theme",
+    "homeassistant": "2025.5.3",
+    "filename": "liquid-glass.yaml",
     "render_readme": true
 }
   
