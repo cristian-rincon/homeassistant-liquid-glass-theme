@@ -2,8 +2,8 @@
 
 Theme inspired by visionOS for Home Assistant with automatic dark mode support.
 
-![Demo day](https://github.com/cristian-rincon/homeassistant-liquid-glass-theme/assets/431167/1b1d9e34-ac45-4a8e-a801-789441cdf06c)
-![Demo night](https://github.com/cristian-rincon/homeassistant-liquid-glass-theme/assets/431167/b503b0f0-3371-4a55-99bc-cf6152ad1510)
+![Demo day](https://github.com/cristian-rincon/homeassistant-liquid-glass-theme/assets/point3d-commercial-imaging-ltd-nQlVMCHPysY-unsplash.jpg)
+![Demo night](https://github.com/cristian-rincon/homeassistant-liquid-glass-theme/assets/point3d-commercial-imaging-ltd-nQlVMCHPysY-unsplash.jpg)
 
 
 ## Installation
