@@ -2,8 +2,8 @@
 
 Theme inspired by Liquid Glass for Home Assistant with automatic dark mode support.
 
-![Demo day](https://github.com/cristian-rincon/homeassistant-liquid-glass-theme/blob/8a8473d524d1764c102766dc8848a7f366507f45/assets/point3d-commercial-imaging-ltd-nQlVMCHPysY-unsplash.jpg)
-![Demo night](https://github.com/cristian-rincon/homeassistant-liquid-glass-theme/blob/8a8473d524d1764c102766dc8848a7f366507f45/assets/point3d-commercial-imaging-ltd-nQlVMCHPysY-unsplash.jpg)
+![Demo day](https://github.com/cristian-rincon/homeassistant-liquid-glass-theme/blob/8a8473d524d1764c102766dc8848a7f366507f45/assets/bd-day.jpg)
+![Demo night](https://github.com/cristian-rincon/homeassistant-liquid-glass-theme/blob/8a8473d524d1764c102766dc8848a7f366507f45/assets/bd-night.jpg)
 
 
 ## Installation
