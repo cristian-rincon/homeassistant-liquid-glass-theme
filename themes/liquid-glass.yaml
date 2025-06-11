@@ -24,7 +24,7 @@ liquid-glass:
   primary-text-color: rgba(255, 255, 255, 0.96)
   secondary-text-color: "#d3d3d3"
   text-primary-color: var(--primary-text-color)
-  disabled-text-color: rgba(208, 208, 208, 0.5) # XXX: https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/2
+  disabled-text-color: rgba(208, 208, 208, 0.5)
   text-dark-color: var(--primary-text-color)
   # Sidebar Menu
   sidebar-background-color: var(--secondary-background-color)
@@ -38,7 +38,7 @@ liquid-glass:
   state-icon-active-color: var(--yellow-color)
   state-icon-unavailable-color: var(--disabled-text-color)
   state-inactive-color: var(--disabled-text-color)
-  paper-item-icon-active-color: var(--state-icon-active-color) # see https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/30
+  paper-item-icon-active-color: var(--state-icon-active-color) 
   # Sliders
   paper-slider-knob-color: "#FFFFFF"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
@@ -57,8 +57,8 @@ liquid-glass:
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
   paper-card-background-color: var(--ha-card-background)
-  rgb-card-background-color: rgb(10, 10, 10) # see https://github.com/basnijholt/lovelace-ios-themes/issues/60
-  ha-card-border-width: 0 # https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/82#event-7732695357
+  rgb-card-background-color: rgb(10, 10, 10)
+  ha-card-border-width: 0 
   ha-card-backdrop-filter: blur(20px)
   ha-card-box-shadow: 0.5px 0.5px 1px 0px rgba(255, 255, 255, 0.40) inset, -0.5px -0.5px 1px 0px rgba(255, 255, 255, 0.10) inset, 0px 1px 2px 0px rgba(0, 0, 0, 0.10)
   # Toggles
@@ -98,11 +98,11 @@ liquid-glass:
   paper-dialog-background-color: rgba(55, 55, 55, 0.8) # e.g., background of more-info
   paper-item-icon-color: white # also should mini-media-player icon white (but doesn't work by itself)
   more-info-header-background: rgba(25, 25, 25, 0.5)
-  lumo-body-text-color: var(--primary-text-color) # see https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/42
+  lumo-body-text-color: var(--primary-text-color)
   markdown-code-background-color: "#464646"
   code-editor-background-color: "#161616"
-  clear-background-color: var(--ha-card-background) # see https://github.com/basnijholt/lovelace-ios-themes/issues/64
-  mdc-theme-surface: var(--secondary-background-color) # this should be opaque as it's used by default for many overlays
+  clear-background-color: var(--ha-card-background)
+  mdc-theme-surface: var(--secondary-background-color)
   material-background-color: var(--secondary-background-color)
   mdc-checkbox-unchecked-color: "#FFF"
   mdc-radio-unchecked-color: "#FFF"
@@ -110,7 +110,6 @@ liquid-glass:
   mcg-title-letter-spacing: .15em
   mini-media-player-base-color: white
   mini-media-player-icon-color: white
-  # Added for https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/72
   input-ink-color: var(--primary-text-color)
   input-fill-color: transparent
   input-disabled-fill-color: transparent

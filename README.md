@@ -13,7 +13,7 @@ Theme inspired by Liquid Glass for Home Assistant with automatic dark mode suppo
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=cristian-rincon&repository=homeassistant-liquid-glass-theme&category=theme)
 
 > [!NOTE]  
-> The background blur effects require Home Assistant 2024.5
+> The background blur effects require Home Assistant 2025.5
 
 2. You should see the "liquid-glass" theme appear in your list of themes.
 
