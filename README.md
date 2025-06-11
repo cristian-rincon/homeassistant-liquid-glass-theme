@@ -4,8 +4,8 @@
 
 Theme inspired by Liquid Glass for Home Assistant with automatic dark mode support.
 
-![Demo day](/assets/bd-day.png)
-![Demo night](/assets/bd-night.png)
+[![Demo day](assets/bd-day.png)](assets/bd-day.png)
+[![Demo night](assets/bd-night.png)](assets/bd-night.png)
 
 
 ## Installation
